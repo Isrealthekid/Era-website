@@ -1,5 +1,8 @@
 # Era-website
 
+hosting === none
+
+
 Engineering Resource Academy Website
 Welcome to the Engineering Resource Academy website! As a front-end developer, I'm excited to present to you the result of our hard work and dedication. This website has been created using HTML, CSS, and JavaScript to provide you with a seamless and informative browsing experience. Below, you'll find important information about the website and how to navigate it effectively.
 
