@@ -1,6 +1,6 @@
 # Era-website
 
-hosting === none
+hosting === vercel
 
 
 Engineering Resource Academy Website
@@ -38,4 +38,3 @@ cd engineering-resource-academy
 Open index.html in Your Browser:
 Double-click on the index.html file to open the website in your preferred browser.
 Usage
-Feel free to explore the website and take advantage of the valuable resources and information provided. If you encounter any issues or have suggestions for improvement, please let us know by creating an issue on our GitHub repository.
